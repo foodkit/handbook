@@ -9,7 +9,7 @@ The second is to give potential future employees an honest and accurate window i
 ## Contents ##
 
 * [How we work](how-we-work.md)
-* [Etiquette 2.0](etiquette-2.0.md)
+* [Messaging etiquette](messaging-etiquette.md)
 * [Engineering Guidelines](engineering-guidelines.md)
 
 ## Contributing ##
